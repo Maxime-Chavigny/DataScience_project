@@ -1,0 +1,49 @@
+# Introduction to Deep Learning and Image Classification Using TensorFlow
+
+👋 Welcome to my GitHub repository for the project "Introduction to Deep Learning and Image Classification Using TensorFlow." This project is a part of my minor in Data Science, and I'm excited to share my progress and findings with you.
+
+## Project Overview
+
+In this project, I'm exploring various aspects of deep learning and image classification using TensorFlow. The primary goals are as follows:
+
+1. **Binary Classification (Week 1-2)**
+   - Determine if an image is a schema or a painting/photo.
+
+2. **Image Treatment and Preprocessing (Week 3-4)**
+   - Enhance and prepare the images for model training.
+
+3. **Transfer Learning (Week 5-6)**
+   - Leverage pre-trained models to improve classification accuracy.
+
+4. **Image Captioning (Week 7-8)**
+   - Generate AI-driven captions for selected images.
+
+## Weekly Updates
+
+I'll be sharing weekly updates on my progress, challenges, and exciting breakthroughs right here in this repository. You can follow along with the project's development and learn alongside me.
+
+## Getting Started
+
+If you're interested in exploring the code and findings from each phase of this project, you can navigate to the corresponding folders in this repository. Feel free to reach out if you have any questions or feedback!
+
+## Dependencies
+
+To run the code and notebooks in this repository, you'll need the following dependencies:
+
+- Python 3.x
+- TensorFlow
+
+## Contributing
+
+I welcome contributions, feedback, and suggestions. If you'd like to contribute to this project or report any issues, please feel free to open a pull request or create an issue.
+
+## Acknowledgments
+
+I'd like to express my gratitude to Samir OUCHANI for their guidance and support throughout this project.
+
+Let's explore the fascinating world of deep learning and image classification together! 🚀
+
+
+LinkedIn: https://www.linkedin.com/in/maxime-chavigny-2a733a200/
+Email: maxime.chavigny@viacesi.fr
+
